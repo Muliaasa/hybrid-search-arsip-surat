@@ -1,0 +1,31 @@
+qid,tipe,bidang,kueri,id_relevan_kandidat,catatan
+Q01,K,PM,perbaikan aspal jalan,21;52;116;1;2,"139 (slab beton) = kasus perbatasan; tentukan sesuai kriteria tertulis"
+Q02,P,PM,penambalan lubang pada permukaan jalan raya,21;52,
+Q03,P,PM,pemeliharaan permukaan perkerasan jalan tol,21;52;116;1;2;139,"139 = perkerasan kaku; putuskan apakah relevan"
+Q04,P,PM,retakan pada slab beton,139,"hanya satu dokumen kandidat"
+Q05,K,PM,pagar pengaman jalan tol,3;51;71;103,
+Q06,P,PM,penggantian guardrail yang rusak,51;103,"3 dan 71 bersifat administratif (tim/panitia)"
+Q07,K,PM,marka jalan,22;93;106,"132 (pengecatan barrier beton) bukan marka"
+Q08,P,PM,pengecatan garis pembatas lajur,22;93;106,
+Q09,K,PM,pembersihan drainase tol,4;41;72;111,
+Q10,P,PM,penanganan banjir dan genangan di gerbang tol,41;72;148;4;111,
+Q11,P,PM,perawatan struktur jembatan layang,25;42;91;123,"123 = JPO (jembatan penyeberangan); putuskan"
+Q12,K,PM,lampu PJU,5;73;129,"32 dan 144 terkait PJU tetapi bukan perbaikan lampu"
+Q13,P,PM,penggantian lampu jalan yang padam,5;129;73,
+Q14,K,PM,kamera CCTV gerbang,18;109,
+Q15,P,PM,gangguan alat komunikasi radio petugas patroli,37;95,
+Q16,K,KEU,rekonsiliasi pendapatan tol,61;117,"13 = audit pendapatan; putuskan"
+Q17,P,KEU,pencocokan transaksi gardu dengan mutasi rekening bank,61;117;13,
+Q18,K,KEU,audit keuangan perusahaan,48;65;124;98,
+Q19,P,KEU,pemeriksaan pembukuan oleh pihak independen,48;98,
+Q20,K,KEU,dividen pemegang saham,35;82,"149 = rapat pemegang saham, bukan dividen"
+Q21,P,KEU,pembagian laba kepada pemilik saham,35;82,
+Q22,K,KEU,rencana anggaran tahunan,34;110,
+Q23,K,SDM,pemberian bonus karyawan,46;130,
+Q24,P,SDM,insentif tambahan atas prestasi kerja staf,46;130;97,"8 (penghargaan teladan) = perbatasan"
+Q25,K,SDM,jam kerja Ramadhan,10;108,
+Q26,P,SDM,penyesuaian jadwal masuk dan pulang selama bulan puasa,10;108,
+Q27,P,SDM,bantuan biaya sekolah untuk anak pegawai,60;141,
+Q28,P,IT,pengamanan sistem kearsipan dari peretasan,16;68;90,"semua dokumen kandidat termasuk dokumen bertema sistem arsip"
+Q29,P,OPS,armada derek untuk evakuasi kendaraan mogok,24;75;63;105;136,
+Q30,P,OPS,pengaturan arus lalu lintas saat mudik dan libur panjang,50;100;113,

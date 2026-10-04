@@ -1,0 +1,151 @@
+id,nomor,perihal,ocr
+1,001/DIR-KPTS-PM.00/V/2024,Pembentukan Panitia PHO Pekerjaan Overlay Jalur A,"Menimbang berakhirnya pekerjaan pemeliharaan jalan tol SS Waru-Juanda 2022, perlu membentuk Panitia Serah Terima Sementara (PHO)."
+2,002/DIR-KPTS-PM.00/V/2024,Pembentukan Panitia FHO Pekerjaan Overlay Jalur B,Memutuskan penetapan panitia Serah Terima Akhir untuk proyek pengerasan aspal pada kilometer 00+820 sampai 04+468.
+3,003/DIR-KPTS-PM.00/V/2024,Penunjukan Tim Pengawas Lapangan Perbaikan Pagar,Menetapkan personel teknis untuk melakukan monitoring terhadap perbaikan pagar pengaman di sepanjang mainroad jalan tol.
+4,004/DIR-KPTS-PM.00/V/2024,Jadwal Pemeliharaan Rutin Drainase Semester I,Rincian kegiatan pembersihan saluran air dan gorong-gorong guna mencegah genangan saat musim penghujan di area tol.
+5,005/DIR-KPTS-PM.00/V/2024,Instruksi Perbaikan Lampu PJU Menanggal,Menginstruksikan divisi terkait untuk segera melakukan penggantian lampu penerangan jalan umum yang padam di gerbang tol Menanggal.
+6,006/DIR-KPTS-SDM.01/V/2024,Penetapan Struktur Organisasi Divisi IT Baru,"Berdasarkan keputusan direksi untuk optimalisasi kinerja, menetapkan susunan baru staf IT dan administrator sistem e-arsip."
+7,007/DIR-KPTS-SDM.01/V/2024,Pelatihan Sertifikasi Kompetensi Tenaga Teknik,"Dalam rangka peningkatan SDM, perusahaan mengirimkan staf teknis untuk mengikuti pelatihan kelistrikan di Surabaya."
+8,008/DIR-KPTS-SDM.01/V/2024,Pemberian Penghargaan Karyawan Teladan 2024,"Menimbang prestasi kerja yang dicapai, Direksi memberikan apresiasi kepada karyawan berprestasi di unit operasional."
+9,009/DIR-KPTS-SDM.01/V/2024,Sosialisasi Budaya Perusahaan (Integrity & Teamwork),Undangan kepada seluruh jajaran staf PT CMS untuk mengikuti workshop penguatan nilai-nilai perusahaan dan kolaborasi kerja.
+10,010/DIR-KPTS-SDM.01/V/2024,Aturan Jam Kerja Selama Bulan Ramadhan,Menetapkan penyesuaian jadwal operasional kantor pusat dan gerbang tol selama periode bulan suci bagi seluruh karyawan.
+11,011/DIR-KPTS-KEU.02/VI/2024,Laporan Realisasi Anggaran Triwulan I,"Berdasarkan audit keuangan, rincian pengeluaran operasional dan investasi infrastruktur telah sesuai dengan target RKAP."
+12,012/DIR-KPTS-KEU.02/VI/2024,Penyesuaian Tarif Tol Tahunan Berdasarkan Inflasi,"Sesuai keputusan Menteri PUPR, dilakukan penyesuaian harga tiket masuk tol Waru-Juanda untuk seluruh golongan kendaraan."
+13,013/DIR-KPTS-KEU.02/VI/2024,Audit Pendapatan Transaksi Elektronik Multi Bank,"Monitoring hasil pengumpulan pendapatan tol melalui e-money, flazz, dan brizzi guna memastikan transparansi keuangan."
+14,014/DIR-KPTS-KEU.02/VI/2024,Pengadaan Vendor Kertas Struk Thermal Gerbang Tol,Keputusan penunjukan mitra penyedia alat tulis kantor dan kebutuhan operasional pencetakan struk di gardu tol.
+15,015/DIR-KPTS-KEU.02/VI/2024,Pembayaran Pajak Bumi dan Bangunan Lahan ROW,Melaksanakan kewajiban administrasi finansial terhadap aset tanah yang digunakan sebagai ruang milik jalan tol.
+16,016/DIR-KPTS-IT.03/VI/2024,Implementasi Sistem Keamanan Cyber Server E-Arsip,Perlu adanya penguatan protokol keamanan data kearsipan digital untuk mencegah kebocoran informasi kredensial perusahaan.
+17,017/DIR-KPTS-IT.03/VI/2024,Migrasi Database Lokal ke Infrastruktur Cloud,Langkah transformasi digital untuk memastikan aksesibilitas data arsip dapat dilakukan secara remote oleh administrator.
+18,018/DIR-KPTS-IT.03/VI/2024,Maintenance Perangkat CCTV Gerbang Juanda,Jadwal rutin pemeliharaan perangkat kamera pemantau lalin dan jaringan fiber optik untuk sentra komunikasi.
+19,019/DIR-KPTS-IT.03/VI/2024,Pengujian Algoritma Clustering HDBSCAN pada Arsip,Laporan hasil eksperimen pengelompokan dokumen otomatis menggunakan metode berbasis kepadatan spasial untuk sistem kearsipan.
+20,020/DIR-KPTS-IT.03/VI/2024,Update Lisensi Software Operasional Kantor,Pembaruan hak guna perangkat lunak sistem operasi dan aplikasi database yang digunakan oleh divisi teknologi informasi.
+21,021/DIR-KPTS-PM.00/VII/2024,Perbaikan Jalan Berlubang (Patching) Jalur A,Penugasan tim pemeliharaan untuk melakukan penambalan aspal guna menjaga standar pelayanan minimal kenyamanan berkendara.
+22,022/DIR-KPTS-PM.00/VII/2024,Pengecatan Ulang Marka Jalan Garis Putih,Memutuskan pelaksanaan pengerjaan cat marka jalan pada area mainroad kilometer 02+000 guna meningkatkan keamanan lalin.
+23,023/DIR-KPTS-PM.00/VII/2024,Pembersihan Taman Median Jalan Tol,Menjaga estetika infrastruktur melalui perawatan rutin tanaman dan ruang terbuka hijau di sepanjang koridor Waru-Juanda.
+24,024/DIR-KPTS-PM.00/VII/2024,Pengadaan Mobil Derek Operasional Baru,Memperkuat armada pelayanan lalin guna mempercepat penanganan kendaraan mogok di jalan tol (target maksimal 30 menit).
+25,025/DIR-KPTS-PM.00/VII/2024,Monitoring Kelayakan Konstruksi Flyover,Tim teknis melakukan pengecekan struktur pilar jembatan layang guna menjamin kekuatan bangunan jalan jangka panjang.
+26,026/DIR-KPTS-SDM.01/VIII/2024,Pelaksanaan MCU Tahunan Karyawan Operasional,Mengadakan pemeriksaan kesehatan rutin bagi petugas gardu tol dan patroli untuk menjaga performa kerja lapangan.
+27,027/DIR-KPTS-SDM.01/VIII/2024,Rekrutmen Tenaga Magang MBKM Jurusan IT,Kerja sama dengan universitas untuk memberikan pengalaman praktis bagi mahasiswa dalam pengembangan sistem digital CMS.
+28,028/DIR-KPTS-SDM.01/VIII/2024,Penetapan Dana Santunan Duka Cita Karyawan,Kebijakan pemberian bantuan sosial bagi keluarga staf yang mengalami musibah sebagai bentuk kepedulian perusahaan.
+29,029/DIR-KPTS-SDM.01/VIII/2024,Workshop Manajemen Risiko bagi Level Manager,Pelatihan khusus untuk mengidentifikasi potensi hambatan bisnis dan operasional tol di masa depan.
+30,030/DIR-KPTS-SDM.01/VIII/2024,Pengadaan Seragam Dinas Baru Petugas Patroli,Standardisasi identitas visual petugas lapangan guna menunjang profesionalitas pelayanan prima kepada pengguna jalan.
+31,031/DIR-KPTS-KEU.02/IX/2024,Hibah Dana CSR untuk Panti Asuhan Menanggal,Alokasi anggaran tanggung jawab sosial perusahaan untuk masyarakat di sekitar wilayah operasional jalan tol.
+32,032/DIR-KPTS-KEU.02/IX/2024,Laporan Biaya Listrik PJU dan Kantor Pusat,Evaluasi konsumsi energi bulanan guna mencari peluang efisiensi biaya operasional melalui penggunaan lampu LED hemat energi.
+33,033/DIR-KPTS-KEU.02/IX/2024,Penagihan Sewa Lahan Pipa Avtur Pertamina,Administrasi pendapatan dari mitra strategis yang menggunakan lahan ruang milik jalan tol untuk kepentingan distribusi bahan bakar.
+34,034/DIR-KPTS-KEU.02/IX/2024,Rencana Kerja Anggaran Perusahaan (RKAP) 2025,Draft awal perencanaan finansial untuk proyeksi pembangunan dan pemeliharaan infrastruktur di tahun mendatang.
+35,035/DIR-KPTS-KEU.02/IX/2024,Penyerahan Dividen kepada Pemegang Saham,Distribusi keuntungan perusahaan hasil dari pengelolaan jalan tol kepada PT CMNP dan PT Jasa Marga.
+36,036/DIR-KPTS-IT.03/X/2024,Instalasi Sensor Otomatis Vehicle Classification,Pemasangan teknologi baru untuk mendeteksi golongan kendaraan di gardu tol secara otomatis berbasis sensor infra merah.
+37,037/DIR-KPTS-IT.03/X/2024,Perbaikan Jaringan Radio Komunikasi Senkom,Penanganan kendala gangguan frekuensi HT yang digunakan petugas patroli dan derek agar koordinasi tetap lancar 24 jam.
+38,038/DIR-KPTS-IT.03/X/2024,Sosialisasi Penggunaan Dashbor E-Arsip Digital,Pelatihan internal bagi staf administrasi mengenai cara pencarian dokumen menggunakan fitur semantic search FAISS.
+39,039/DIR-KPTS-IT.03/X/2024,Backup Rutin Server Data Metadata Dokumen,Menjamin integritas informasi melalui penyalinan data harian guna mengantisipasi kegagalan sistem atau bencana alam.
+40,040/DIR-KPTS-IT.03/X/2024,Pengadaan Komputer Spesifikasi Tinggi untuk Admin,Pembelian hardware baru guna menunjang pemrosesan algoritma kecerdasan buatan dan reduksi dimensi UMAP yang berat.
+41,041/DIR-KPTS-PM.00/XI/2024,Penanganan Genangan Air di Gerbang Tol Berbek,Instruksi darurat pembersihan sedimen pada gorong-gorong akibat intensitas hujan tinggi yang menghambat akses masuk tol.
+42,042/DIR-KPTS-PM.00/XI/2024,Penggantian Bantalan Jembatan (Bearing Pad),Pekerjaan teknis penggantian komponen jembatan yang aus guna menjaga elastisitas struktur flyover jalan tol.
+43,043/DIR-KPTS-PM.00/XI/2024,Pemasangan Sticker Estetika Kolom Gerbang Tol,Peningkatan nilai visual pada area gerbang tol melalui pemasangan branding perusahaan dan informasi keselamatan berkendara.
+44,044/DIR-KPTS-PM.00/XI/2024,Laporan Bulanan Standar Pelayanan Minimal (SPM),"Evaluasi terhadap kepatuhan perusahaan dalam memenuhi target waktu tempuh, kondisi jalan, dan keamanan lalin."
+45,045/DIR-KPTS-PM.00/XI/2024,Pembersihan Sampah Liar di Pinggir Jalan Tol,Koordinasi dengan tim kebersihan untuk menyisir area ROW dari tumpukan sampah yang dibuang sembarangan oleh oknum.
+46,046/DIR-KPTS-SDM.01/XII/2024,Penetapan Bonus Akhir Tahun Karyawan PT CMS,"Berdasarkan pencapaian laba perusahaan, Direksi menyetujui pemberian insentif tambahan bagi seluruh staf tetap."
+47,047/DIR-KPTS-SDM.01/XII/2024,Jadwal Cuti Bersama Akhir Tahun 2024,Menetapkan daftar piket petugas operasional gerbang tol agar tetap siaga melayani lalin saat periode libur natal.
+48,048/DIR-KPTS-KEU.02/XII/2024,Audit Eksternal oleh Kantor Akuntan Publik,Persiapan dokumen finansial untuk dilakukan pemeriksaan oleh pihak independen guna menjamin akuntabilitas korporasi.
+49,049/DIR-KPTS-IT.03/XII/2024,Laporan Akhir Transformasi Digital E-Arsip,Ringkasan keberhasilan implementasi sistem kearsipan berbasis AI dalam meningkatkan efisiensi pencarian dokumen perusahaan.
+50,050/DIR-KPTS-PM.00/XII/2024,Persiapan Jalur Mudik Libur Tahun Baru 2025,Instruksi penyiagaan armada rescue dan penambahan petugas gardu tol untuk mengantisipasi lonjakan volume lalin.
+51,051/DIR-KPTS-PM.00/I/2025,Penetapan Lokasi Perbaikan Guardrail Jalur B,Menginstruksikan tim pemeliharaan untuk memasang pagar pengaman baru pada titik rawan kecelakaan kilometer 08+200.
+52,052/DIR-KPTS-PM.00/I/2025,Laporan Inspeksi Rutin Kondisi Jalan Utama,Hasil monitoring menunjukkan adanya retakan rambut pada permukaan aspal yang memerlukan penanganan patching segera.
+53,053/DIR-KPTS-PM.00/I/2025,Koordinasi Pembersihan Median Jalan Tol,Jadwal pengerjaan kebersihan taman dan pemotongan rumput di sepanjang koridor utama SS Waru-Juanda.
+54,054/DIR-KPTS-PM.00/I/2025,Evaluasi Kinerja Vendor Pemeliharaan Flyover,"Menimbang kualitas pengerjaan overlay jalur A, perlu dilakukan peninjauan ulang terhadap kontrak kerja sama pihak ketiga."
+55,055/DIR-KPTS-PM.00/I/2025,Surat Perintah Tugas (SPRIN) Patroli Malam,Menugaskan unit operasional untuk meningkatkan frekuensi pengawasan lalin guna mengantisipasi gangguan kamtibmas.
+56,056/DIR-KPTS-SDM.01/II/2025,Mutasi Internal Petugas Pengumpul Tol,Langkah penyegaran organisasi dengan melakukan rotasi staf administrasi antar gerbang tol guna peningkatan pengalaman.
+57,057/DIR-KPTS-SDM.01/II/2025,Rekrutmen Staf IT Support Infrastruktur,Pembukaan lowongan pekerjaan untuk posisi teknisi jaringan guna mendukung sistem operasional gerbang tol otomatis.
+58,058/DIR-KPTS-SDM.01/II/2025,Penetapan Standar Seragam Kerja Baru 2025,Direksi menetapkan pedoman berpakaian dinas harian bagi seluruh karyawan tetap dan tenaga outsourcing PT CMS.
+59,059/DIR-KPTS-SDM.01/II/2025,Sosialisasi Perjanjian Kerja Bersama (PKB),Pertemuan antara manajemen dan serikat pekerja untuk menyelaraskan hak dan kewajiban karyawan demi iklim kerja kondusif.
+60,060/DIR-KPTS-SDM.01/II/2025,Pemberian Beasiswa Pendidikan Anak Karyawan,Program kesejahteraan perusahaan dalam bentuk bantuan biaya sekolah bagi keluarga staf yang berprestasi.
+61,061/DIR-KPTS-KEU.02/III/2025,Rekonsiliasi Pendapatan Tol Bulanan,Verifikasi data antara jumlah transaksi di gardu tol dengan mutasi rekening bank e-money dan flazz.
+62,062/DIR-KPTS-KEU.02/III/2025,Pengadaan Asuransi Aset Infrastruktur Jalan Tol,Penunjukan penyedia proteksi finansial untuk melindungi jembatan dan flyover dari risiko bencana alam.
+63,063/DIR-KPTS-KEU.02/III/2025,Persetujuan Biaya Operasional Kendaraan Rescue,Alokasi dana untuk pembelian bahan bakar dan pemeliharaan mesin armada derek serta ambulance perusahaan.
+64,064/DIR-KPTS-KEU.02/III/2025,Penetapan Harga Sewa Lahan Iklan Billboard,Aturan tarif penggunaan ruang milik jalan tol untuk media promosi luar ruang di sepanjang mainroad.
+65,065/DIR-KPTS-KEU.02/III/2025,Audit Internal Sistem Keuangan Perusahaan,Evaluasi kepatuhan prosedur akuntansi terhadap kebijakan pengelolaan dana investasi infrastruktur.
+66,066/DIR-KPTS-IT.03/IV/2025,Integrasi API E-Arsip dengan Dashboard HRD,Pengembangan fitur koneksi data agar metadata surat keputusan SDM dapat diakses langsung oleh manajer personalia.
+67,067/DIR-KPTS-IT.03/IV/2025,Penambahan Kapasitas Penyimpanan Server Cloud,Upgrade paket data storage guna mengakomodasi peningkatan volume scan dokumen digital PT CMS.
+68,068/DIR-KPTS-IT.03/IV/2025,Pelatihan Mitigasi Serangan Cyber (Ransomware),Workshop bagi staf divisi teknologi informasi mengenai perlindungan database kearsipan dari ancaman peretasan.
+69,069/DIR-KPTS-IT.03/IV/2025,Pembaruan Antarmuka (UI) Website Perusahaan,Langkah modernisasi portal informasi publik PT Citra Margatama Surabaya agar lebih user-friendly.
+70,070/DIR-KPTS-IT.03/IV/2025,Konfigurasi Ulang Jaringan WiFi Kantor Pusat,Optimalisasi koneksi internet guna menunjang produktivitas kerja karyawan saat pengolahan data kearsipan.
+71,071/DIR-KPTS-PM.00/V/2025,Penunjukan Panitia PHO Pemeliharaan Pagar,Membentuk tim penilai hasil pengerjaan perbaikan pagar pengaman di kilometer 04+000 jalur B.
+72,072/DIR-KPTS-PM.00/V/2025,Instruksi Pembersihan Sedimen Drainase,Pekerjaan darurat pengangkatan lumpur pada saluran air sekitar Gerbang Tol Juanda guna mencegah genangan.
+73,073/DIR-KPTS-PM.00/V/2025,Pengadaan Suku Cadang Lampu PJU LED,Pembelian komponen pencahayaan jalan guna mendukung efisiensi energi di sepanjang koridor operasional.
+74,074/DIR-KPTS-PM.00/V/2025,Laporan Mingguan Standar Pelayanan Minimal,Ringkasan pencapaian indikator kenyamanan dan keamanan lalin sesuai peraturan kementerian PUPR.
+75,075/DIR-KPTS-PM.00/V/2025,Sertifikasi Laik Operasi Kendaraan Derek,Pemeriksaan kelayakan teknis armada bantuan lalin guna menjamin keselamatan proses evakuasi di jalan tol.
+76,076/DIR-KPTS-SDM.01/VI/2025,Penetapan Dana Santunan Kesehatan Staf,Kebijakan dukungan finansial bagi karyawan yang membutuhkan perawatan medis khusus di rumah sakit.
+77,077/DIR-KPTS-SDM.01/VI/2025,Undangan Rapat Evaluasi Kinerja Semester I,Pertemuan seluruh kepala divisi untuk mempresentasikan laporan progres kerja tahun berjalan.
+78,078/DIR-KPTS-SDM.01/VI/2025,Penunjukan Mentor Program Magang MBKM,Menetapkan pembimbing lapangan dari staf IT untuk mendampingi mahasiswa dalam pengembangan E-Arsip.
+79,079/DIR-KPTS-SDM.01/VI/2025,Pelatihan Pengelolaan Arsip bagi Sekretaris,Program peningkatan kompetensi staf administrasi dalam tata kelola dokumen fisik dan digital perusahaan.
+80,080/DIR-KPTS-SDM.01/VI/2025,Aturan Protokol Kesehatan di Lingkungan Kantor,Keputusan direksi mengenai panduan menjaga kebersihan dan kesehatan di area kerja PT CMS.
+81,081/DIR-KPTS-KEU.02/VII/2025,Anggaran Perbaikan Gedung Kantor Pusat,Rincian dana untuk renovasi ruang administrasi guna menunjang kenyamanan operasional divisi IT.
+82,082/DIR-KPTS-KEU.02/VII/2025,Pembayaran Dividen Tahunan kepada CMNP,Melaksanakan kewajiban distribusi laba bersih perusahaan kepada pemegang saham mayoritas.
+83,083/DIR-KPTS-KEU.02/VII/2025,Laporan Pajak Penghasilan (PPh) Karyawan,Administrasi pemotongan dan pelaporan pajak tahunan staf PT Citra Margatama Surabaya.
+84,084/DIR-KPTS-KEU.02/VII/2025,Pengadaan Vendor Konsumsi Rapat Direksi,Keputusan penunjukan mitra katering untuk mendukung kegiatan formal perusahaan selama satu semester.
+85,085/DIR-KPTS-KEU.02/VII/2025,Penyesuaian Anggaran Tanggap Darurat Bencana,Alokasi dana cadangan untuk penanganan kerusakan infrastruktur tol akibat cuaca ekstrem.
+86,086/DIR-KPTS-IT.03/VIII/2025,Implementasi Fitur OCR pada Sistem E-Arsip,Integrasi teknologi pengenalan karakter otomatis guna mempermudah input metadata dari dokumen fisik.
+87,087/DIR-KPTS-IT.03/VIII/2025,Uji Coba Pencarian Semantik berbasis FAISS,Laporan keberhasilan sistem Information Retrieval dalam menemukan dokumen melalui kesamaan makna.
+88,088/DIR-KPTS-IT.03/VIII/2025,Pembersihan Data Noise pada Basis Data Vektor,Langkah optimasi algoritma clustering agar pengelompokan dokumen menjadi lebih presisi dan efisien.
+89,089/DIR-KPTS-IT.03/VIII/2025,Instalasi Backup Listrik (UPS) Ruang Server,Pengadaan perangkat daya cadangan guna mencegah kegagalan sistem saat terjadi pemadaman listrik.
+90,090/DIR-KPTS-IT.03/VIII/2025,Pembaruan Sertifikat SSL Website CMS,Menjamin keamanan enkripsi data saat pengguna mengakses sistem informasi kearsipan secara online.
+91,091/DIR-KPTS-PM.00/IX/2025,Perbaikan Expansion Joint Jembatan Layang,Pekerjaan teknis penggantian sambungan struktur flyover guna menjaga stabilitas bangunan jalan.
+92,092/DIR-KPTS-PM.00/IX/2025,Koordinasi Penertiban Kendaraan ODOL,Kerja sama dengan PJR untuk melakukan razia kendaraan bermuatan lebih guna menjaga keawetan aspal.
+93,093/DIR-KPTS-PM.00/IX/2025,Pengadaan Marka Jalan Jenis Coldplastic,Penggunaan material cat berkualitas tinggi agar garis jalan lebih terlihat jelas saat kondisi hujan malam hari.
+94,094/DIR-KPTS-PM.00/IX/2025,Laporan Evaluasi Waktu Tempuh Rata-Rata,Monitoring efektivitas operasional dalam meminimalisir kemacetan di akses gerbang tol utama.
+95,095/DIR-KPTS-PM.00/IX/2025,Pemeliharaan Perangkat Radio Link Senkom,Perbaikan alat komunikasi antar pos pantau guna kelancaran distribusi informasi lalu lintas.
+96,096/DIR-KPTS-SDM.01/X/2025,Penetapan Struktur Tim K3 (HSE) Perusahaan,Membentuk unit kerja khusus yang bertanggung jawab atas keselamatan dan kesehatan lingkungan kerja.
+97,097/DIR-KPTS-SDM.01/X/2025,Pemberian Tunjangan Hari Raya bagi Outsourcing,Kebijakan distribusi insentif bagi petugas kebersihan dan keamanan yang bertugas di PT CMS.
+98,098/DIR-KPTS-KEU.02/X/2025,Penyusunan Draft Laporan Keuangan Tahunan,Persiapan data neraca dan laba rugi untuk keperluan audit oleh Kantor Akuntan Publik.
+99,099/DIR-KPTS-IT.03/X/2025,Laporan Akhir Visualisasi Klaster Dokumen,Dokumentasi hasil implementasi UMAP dan HDBSCAN dalam memetakan kategori arsip secara grafis.
+100,100/DIR-KPTS-PM.00/X/2025,Persiapan Pengamanan Lalin Libur Akhir Tahun,Instruksi koordinasi lintas divisi untuk memastikan kesiapan seluruh infrastruktur menyambut lonjakan lalin.
+101,100/DIR-OPS.MGT.01/I/2026,Laporan Mingguan Lalin Tol SS Waru,Data volume kendaraan dan kepadatan arus lalu lintas pada periode minggu pertama Januari di ruas SS Waru.
+102,101/KPTS-SDM.01/I/2026,Penugasan Petugas Layanan Jalan Tol,Keputusan Direksi mengenai jadwal piket dan penempatan personel operasional di titik pantau lalin.
+103,102/DIR-OPS.PP.03/I/2026,Perbaikan Pagar Pembatas KM 12,Instruksi pengelasan dan penggantian pagar guardrail yang rusak akibat kecelakaan tunggal.
+104,103/SPRIN-OPS.MGT.05/I/2026,Surat Perintah Tugas IT Support,Perintah kepada staf IT untuk melakukan maintenance server database E-Arsip secara berkala.
+105,104/DIR-KEU.01/I/2026,Pengajuan Dana Operasional Derek,Permohonan anggaran bahan bakar dan perawatan armada mobil derek di gerbang tol Menanggal.
+106,105/BA-OPS.PP.00/I/2026,Berita Acara Kerusakan Marka Jalan,Dokumentasi teknis kerusakan cat marka jalan sepanjang 500 meter akibat pengikisan cuaca ekstrim.
+107,106/DIR-TU.01/II/2026,Tagihan Penggunaan Jaringan Internet,Surat pengantar pembayaran biaya bulanan bandwidth internet kantor pusat PT CMS.
+108,107/SE-SDM.04/II/2026,Surat Edaran Jam Kerja Puasa,Pemberitahuan perubahan jadwal masuk dan pulang karyawan selama masa bulan Ramadhan.
+109,108/DIR-OPS.MGT.03/II/2026,Laporan Gangguan CCTV Ruas Juanda,Detail teknis pemadaman 3 unit kamera pemantau karena kerusakan modul power supply.
+110,109/KPTS-KEU.00/II/2026,Penetapan Anggaran Tahunan 2026,Pengesahan dokumen rencana kerja dan anggaran perusahaan untuk divisi operasional dan SDM.
+111,110/DIR-OPS.PP.01/II/2026,Jadwal Pembersihan Saluran Air,Rencana kerja rutin pembersihan drainase sisi jalan tol untuk mencegah genangan air.
+112,111/BA-SDM.00/II/2026,Berita Acara Serah Terima Laptop,Penyerahan aset inventaris perusahaan berupa perangkat komputer kepada karyawan baru divisi TI.
+113,112/DIR-OPS.MGT.01/III/2026,Koordinasi Rekayasa Lalin Operasi Lilin,Surat koordinasi dengan PJR untuk pengaturan arus mudik dan balik di akses masuk Surabaya.
+114,113/SPRIN-TU.06/III/2026,Perintah Pengamanan Kantor Pusat,Instruksi kepada tim security untuk meningkatkan kewaspadaan selama masa libur panjang.
+115,114/DIR-SDM.02/III/2026,Pengajuan Klaim Asuransi Kesehatan,Berkas administrasi permohonan penggantian biaya perawatan medis staf operasional.
+116,115/KPTS-OPS.PP.00/III/2026,Penetapan Vendor Aspal 2026,Surat keputusan pemilihan kontraktor untuk pekerjaan overlay perkerasan jalan ruas Waru.
+117,116/DIR-KEU.02/III/2026,Rekonsiliasi Pendapatan Tol,Laporan pencocokan data transaksi kartu uang elektronik dengan dana yang masuk ke rekening bank.
+118,117/BA-OPS.MGT.03/IV/2026,BA Kerusakan Gerbang Tol Otomatis,Laporan kejadian kerusakan palang gerbang otomatis akibat ditabrak kendaraan pengguna jalan.
+119,118/DIR-TU.02/IV/2026,Pemesanan Alat Tulis Kantor,Daftar kebutuhan logistik administrasi kantor pusat PT CMS untuk kuartal kedua.
+120,119/SE-OPS.MGT.04/IV/2026,SE Penggunaan Seragam Operasional,Aturan kewajiban mengenakan rompi keselamatan bagi petugas yang bekerja di mainroad jalan tol.
+121,120/DIR-SDM.01/IV/2026,Sosialisasi Budaya Kerja Perusahaan,Undangan bagi seluruh karyawan untuk mengikuti workshop pengembangan karakter organisasi.
+122,121/KPTS-TU.00/IV/2026,Klasifikasi Kearsipan Digital,Keputusan mengenai tata cara penamaan dan penyimpanan file pada sistem E-Arsip CMS.
+123,122/DIR-OPS.PP.04/V/2026,Perawatan Jembatan Penyeberangan,Instruksi pengecatan ulang dan pengecekan struktur baja JPO di KM 10.
+124,123/SPRIN-KEU.01/V/2026,Perintah Audit Internal Divisi,Instruksi pelaksanaan pemeriksaan keuangan internal untuk memastikan akuntabilitas anggaran.
+125,124/DIR-OPS.MGT.00/V/2026,Monitoring Kecepatan Kendaraan,Laporan hasil tangkapan kamera speed sensor terhadap kendaraan yang melampaui batas kecepatan.
+126,125/BA-TU.03/V/2026,BA Rapat Evaluasi Bulanan,Notulensi resmi mengenai progres capaian target perusahaan periode Mei 2026.
+127,126/DIR-SDM.03/V/2026,Pengusulan Pelatihan Sertifikasi TI,Permohonan biaya pelatihan Microsoft Office Specialist bagi admin kearsipan.
+128,127/SE-KEU.02/VI/2026,SE Tata Cara Klaim Perjalanan Dinas,Prosedur terbaru mengenai pelaporan biaya transportasi dan akomodasi kedinasan.
+129,128/DIR-OPS.PP.02/VI/2026,Pemeliharaan Lampu Sorot Gerbang,Penggantian bohlam LED pada tower penerangan area gerbang tol SS Waru.
+130,129/KPTS-SDM.01/VI/2026,Pemberian Bonus Kinerja Semester I,Keputusan Direksi mengenai distribusi insentif prestasi bagi staf berprestasi.
+131,130/DIR-TU.05/VI/2026,Perawatan Rutin Mobil Dinas,Jadwal servis berkala dan penggantian suku cadang kendaraan operasional perusahaan.
+132,131/BA-OPS.PP.04/VI/2026,BA Pekerjaan Pengecatan Median,Pernyataan selesai pekerjaan pengecatan barrier beton di sepanjang ruas jalan utama.
+133,132/DIR-KEU.00/VII/2026,Penyusunan Proyeksi Cashflow,Laporan estimasi arus kas masuk dan keluar untuk operasional semester kedua.
+134,133/SPRIN-OPS.MGT.01/VII/2026,Perintah Sosialisasi E-Toll Baru,Penugasan staf gerbang tol untuk membantu pengguna jalan dalam aktivasi kartu baru.
+135,134/DIR-SDM.00/VII/2026,Update Data Keluarga Karyawan,Permohonan pembaharuan data tanggungan untuk kepentingan asuransi kesehatan perusahaan.
+136,135/KPTS-OPS.MGT.03/VII/2026,Standarisasi Respon Time Derek,Keputusan mengenai batas waktu maksimal kedatangan mobil derek di lokasi kejadian.
+137,136/DIR-TU.01/VII/2026,Permohonan Pengadaan Server Baru,Dokumen spesifikasi teknis untuk upgrade perangkat keras database pusat data.
+138,137/BA-SDM.04/VIII/2026,BA Tes Kesehatan Berkala,Dokumentasi hasil pemeriksaan medis tahunan bagi seluruh petugas lapangan PT CMS.
+139,138/DIR-OPS.PP.05/VIII/2026,Laporan Kerusakan Perkerasan Kaku,Detail lokasi retakan pada slab beton jalan tol yang memerlukan injeksi epoxy.
+140,139/SE-TU.06/VIII/2026,SE Kebersihan Lingkungan Kantor,Himbauan untuk menjaga kerapihan meja kerja dan pengurangan penggunaan plastik sekali pakai.
+141,140/DIR-KEU.01/VIII/2026,Alokasi Dana CSR Pendidikan,Pengajuan bantuan beasiswa bagi anak karyawan operasional yang berprestasi.
+142,141/KPTS-TU.01/VIII/2026,Penghapusan Arsip Fisik Tahun 2010,Pengesahan daftar dokumen lama yang telah melewati masa retensi untuk dimusnahkan.
+143,142/DIR-OPS.MGT.04/IX/2026,Analisis Kepadatan Gerbang Exit,Studi efisiensi penambahan gardu tol portabel untuk mengurangi antrean di jam sibuk.
+144,143/SPRIN-SDM.01/IX/2026,Perintah Rekrutmen Teknisi Listrik,Penugasan divisi HRD untuk membuka lowongan pekerjaan spesialis pemeliharaan PJU.
+145,144/DIR-SDM.02/IX/2026,Evaluasi Vendor Kebersihan,Laporan penilaian kinerja pihak ketiga yang mengelola kebersihan area gerbang tol.
+146,145/BA-OPS.MGT.00/IX/2026,BA Uji Coba Sensor Sensor RFID,Hasil pengujian pembacaan kartu otomatis pada gardu tol nomor 4 ruas Juanda.
+147,146/DIR-KEU.02/IX/2026,Audit Pajak Pertambahan Nilai,Dokumen pelaporan PPN bulanan atas transaksi jasa layanan tol kepada negara.
+148,147/KPTS-OPS.PP.01/X/2026,Penunjukan Tim Penanganan Banjir,Pembentukan satgas khusus untuk antisipasi genangan air di area tol saat musim hujan.
+149,148/DIR-TU.04/X/2026,Undangan Rapat Pemegang Saham,Pemberitahuan resmi agenda rapat evaluasi tahunan bersama dewan komisaris.
+150,149/SE-OPS.PP.03/X/2026,SE Standar Keamanan Perbaikan Jalan,Instruksi pemasangan rambu peringatan 500 meter sebelum lokasi pekerjaan teknis.
